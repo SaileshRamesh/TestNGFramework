@@ -16,7 +16,7 @@ Problem Statement: Automating an eCommerce Website by following the standard Tes
 - Implemented **Page Object Model** to drive locators from respective classes
 - Drive object creation within page object classes **encapsulating** it from Tests 
 - Created Base Test which sets browser configuration and **global properties**
-- **Test Strtergy,** decide how the tests must be clubbed and distributed with appropriate annotations
+- **Test Strategy,** decide how the tests must be clubbed and distributed with appropriate annotations
 - Create **TestNG runner** file to trigger tests with single Point of execution control
 - Introduce **Grouping in TestNG.xml** to categorise tests with different tags of execution
 - Implemented **Data Driven Testing and Parameterization** using TestNG Data Provider HashMap and Json Files
